@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 classes: wide
 header:
     image: /assets/images/headerpic.jpg
