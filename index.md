@@ -1,5 +1,6 @@
 ---
 layout: home
+classes: wide
 header:
     image: /assets/images/headerpic.jpg
 ---
