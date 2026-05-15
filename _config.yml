@@ -123,45 +123,39 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:philphails1@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
+      url: "https://x.com/philphails"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://www.facebook.com/philphails/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/phil_phails"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url:
+      url: "https://x.com/philphails"
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
-      # url:
+      url: "https://www.facebook.com/philphails/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      # url:
+      url: "https://www.linkedin.com/in/phillipjones2/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      # url:
+      url: "https://www.youtube.com/@PhilPhails"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/phil_phails"
   since: "2013"
 
 
