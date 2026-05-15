@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-fw fa-square-facebook"
       url: "https://www.facebook.com/philphails/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/phillipjones2/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
