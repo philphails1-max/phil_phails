@@ -326,3 +326,6 @@ defaults:
       share: true
       related: true
 
+collections:
+  episodes:
+    output: true 
