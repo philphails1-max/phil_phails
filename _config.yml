@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Phillip Jones"
   avatar           : "/assets/images/philphailslogopic.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "👨‍👧‍👧 Single dad | 🧠 Neurodivergent & Proud | 🛤️ Path Seeker After a lifetime of personal growth—through self-help, therapy, and endless learning—I'm embracing my unique journey. No more chasing 'normal.' Here to celebrate the quirks, the trials, and the joys of being authentically me. 🌟 Leaving the software world behind, I'm forging a new trail with \"Phil Phails,\" a show that revels in the messiness of life and learning. Catch my latest adventures and dad moments on Austin Public  and YouTube. Let’s redefine success together. The Fool's journey is a tapestry of learning, woven with threads of naivety and the vibrant colors of experience. Each step is a dance between innocence and wisdom, a transformation that beckons the curious souls to witness the unfolding of a human in bloom. Embrace this odyssey with open arms, for the path of the unknowing is a canvas for growth, and every traveler a masterpiece in progress."
   location         : "Austin, TX"
   email            : "philphails1@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -150,9 +150,6 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@PhilPhails"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/phil_phails"
