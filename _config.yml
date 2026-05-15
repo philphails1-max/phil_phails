@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Phillip Jones"
+  avatar           : "/assets/images/philphailslogopic.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Austin, TX"
+  email            : "philphails1@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
@@ -150,11 +150,11 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
