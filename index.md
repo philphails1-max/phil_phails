@@ -18,4 +18,4 @@ Mark’s core philosophy is simple but powerful: cycling should enhance your lif
 
 [![(62) Phil Phails @ Enhancement with Mark Duroy | From Pro Cyclist to Mailman to Amazon](assets/images/enhancementyoutube.jpg "(62) Phil Phails @ Enhancement with Mark Duroy | From Pro Cyclist to Mailman to Amazon")](https://www.youtube.com/watch?v=9UKWVSsz3mw)
 
-
+![(62) Phil Phails @ Enhancement with Mark Duroy | From Pro Cyclist to Mailman to Amazon](assets/images/enhancementyoutube.jpg)
