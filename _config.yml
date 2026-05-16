@@ -339,4 +339,5 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true 
+      share: true
+      classes: wide
